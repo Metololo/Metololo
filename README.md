@@ -1,6 +1,6 @@
 ### Bienvenue 👋
 
-## document.title =  'Je suis étudiant en informatique en 2ème année 🎓 ';
+## Je suis étudiant en informatique en 2ème année 🎓
 
 ## Je suis à la recherche d'une **alternance** en bac +3 pour la rentrée de septembre ainsi que d'un **stage** pour une durée minimum de 2 mois à partir de mai
 
